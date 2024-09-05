@@ -1,0 +1,108 @@
+1. `<html>`
+   <html>
+     <body>Contenido de la página</body>
+   </html>
+
+2. `<head>`
+   <html>
+     <head>
+       <title>Mi sitio web</title>
+     </head>
+   </html>
+
+3. `<title>`
+   <html>
+     <head>
+       <title>Ejemplo de título</title>
+     </head>
+     <body>Contenido del sitio web</body>
+   </html>
+
+4. `<body>`
+   <html>
+     <body>
+       <h1>Bienvenido</h1>
+       <p>Este es el contenido de mi página web.</p>
+     </body>
+   </html>
+
+5. `<h1>` a `<h6>`
+   <h1>Título 1</h1>
+   <h2>Título 2</h2>
+   <h3>Título 3</h3>
+   <h4>Título 4</h4>
+   <h5>Título 5</h5>
+   <h6>Título 6</h6>
+
+6. `<p>`
+   <p>Este es un párrafo de texto.</p>
+
+7. `<a>`
+   <a href="https://www.ejemplo.com">Visita mi sitio web</a>
+
+8. `<img>`
+   <img src="imagen.jpg" alt="Descripción de la imagen">
+
+9. `<div>`
+   <div>
+     <h2>Encabezado dentro de un div</h2>
+     <p>Párrafo dentro de un div.</p>
+   </div>
+
+10. `<span>`
+   <p>Este es un <span style="color: red;">texto en rojo</span> dentro de un párrafo.</p>
+
+11. `<ul>` (Lista desordenada)
+   <ul>
+     <li>Elemento 1</li>
+     <li>Elemento 2</li>
+     <li>Elemento 3</li>
+   </ul>
+
+12. `<ol>` (Lista ordenada)
+   <ol>
+     <li>Elemento 1</li>
+     <li>Elemento 2</li>
+     <li>Elemento 3</li>
+   </ol>
+
+13. `<li>`
+   <ul>
+     <li>Elemento de una lista</li>
+   </ul>
+
+14. `<table>`
+   <table border="1">
+     <tr>
+       <th>Columna 1</th>
+       <th>Columna 2</th>
+     </tr>
+     <tr>
+       <td>Dato 1</td>
+       <td>Dato 2</td>
+     </tr>
+   </table>
+
+15. `<tr>`
+   <tr>
+     <td>Celda 1</td>
+     <td>Celda 2</td>
+   </tr>
+
+16. `<td>`
+   <td>Este es el contenido de una celda</td>
+
+17. `<th>`
+   <th>Encabezado de la tabla</th>
+
+18. `<form>`
+   <form action="/enviar" method="POST">
+     <input type="text" name="nombre" placeholder="Tu nombre">
+     <button type="submit">Enviar</button>
+   </form>
+
+19. `<input>`
+   <input type="text" name="nombre" placeholder="Tu nombre">
+
+20. `<button>`
+   <button type="button">Haz clic aquí</button>   
