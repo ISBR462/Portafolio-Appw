@@ -3,7 +3,7 @@
       <h3>Formulario de Pago</h3>
       <form @submit.prevent="submitPayment">
         <label for="cardNumber">Número de Tarjeta:</label>
-        <input type="text" v-model="cardNumber" placeholder="Número de tarjeta" required>
+        <input type="text" v-model="cardNumber" placeholder="Ingresar el Númeroo de tarjeta" required>
   
         <label for="expiryDate">Fecha de Expiración (MM/AA):</label>
         <input type="text" v-model="expiryDate" placeholder="MM/AA" required>
@@ -76,4 +76,5 @@
     background-color: #555;
   }
   </style>
+  
   
